@@ -1,4 +1,7 @@
 # LLM as Presidential Candidate: Analyzing Shifts in Political Rhetoric Over Time
+
+This project was completed for the course 6.8610 Quantitative Methods for NLP – Advanced NLP @ Massachusetts Insitute of Technology.
+
 ## 6.8610 Project Code & Documentation
 
 ## Data
